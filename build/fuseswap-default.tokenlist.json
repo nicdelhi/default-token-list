@@ -1,5 +1,5 @@
 {
-  "name": "Fuse Token List<script>alert(1)</script>",
+  "name": "Fuse Token List",
   "timestamp": "2021-02-11T10:59:04.178Z",
   "version": {
     "major": 3,
@@ -7,7 +7,7 @@
     "patch": 0
   },
   "tags": {},
-  "logoURI": "ipfs://QmQQGd3Kbb8fhxKQLvzPPngzBGd5aydV3QAigLHy53Hr3g",
+  "logoURI": "//javascript:prompt(1)",
   "keywords": [
     "fuseswap",
     "fuse",
@@ -15,10 +15,10 @@
   ],
   "tokens": [
     {
-      "name": "0xBitcoin Token<script>alert(1)</script>",
-      "address": "0xB6eD7644C69416d67B522e20bC294A9a9B405B31",
-      "symbol": "0xBTC",
-      "decimals": 8,
+      "name": "ITS",
+      "address": "0x517c62136a2d0ba66d0590644c9763992253e90b",
+      "symbol": "ITS",
+      "decimals": 2,
       "chainId": 1,
       "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xB6eD7644C69416d67B522e20bC294A9a9B405B31/logo.png"
     },
